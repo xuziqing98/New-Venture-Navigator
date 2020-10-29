@@ -1,5 +1,7 @@
 # Coursera Applied Data Science Capstone Project
 ### The Battle of Neighbourhood: Where to start the business in Guangzhou?
+#### Author: Ziqing Xu
+#### Date: Oct 29
 
 ### Introduction 
 
