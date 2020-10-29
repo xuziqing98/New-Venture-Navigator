@@ -35,7 +35,7 @@ Since the goal is to determine the location to start up a specific type of busin
 - Cluster 2 (Purple): In this cluster, the types of business are diverse. Based on the result, it is likely to be an area for entertainment. Cafe, Restaurant, Shopping Mall, Resort, Park, and Sport Court are recommended.
 - Cluster 3 (Blue): In this cluster, Opening a Chinese Restaurant is most recommended as the first most common venues are Chinese Restaurants for most of the neighbourhood in this cluster. Department Store and Women's Store are also recommended.
 - Cluster 4 (Mint Green): In this cluster, Opening a hotel is most recommended as the first most common venues are hotels for most of the neighbourhood in this cluster. From the result, the neighbourhoods in this cluster are likely to be areas for tourism. Starting up a tourism-relative business is recommended.
-- Cluster 5: In this cluster, Opening a Restaurant is most recommended as the most of the common venues are about dining. However, Cantonese Food is most popular.
+- Cluster 5 (Orange): In this cluster, Opening a Restaurant is most recommended as the most of the common venues are about dining. However, Cantonese Food is most popular.
 
 ### Discussion
 As we see in the result section, the number of neighbourhoods in cluster 2 is much more than in the other clusters. The type of venues are diverse in cluster 2, so it is not easy to make a recommendation in the area covered by cluster 2. Using a bigger K may get a better result.
