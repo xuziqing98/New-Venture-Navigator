@@ -1,7 +1,7 @@
-# Coursera Applied Data Science Capstone Project
-### The Battle of Neighbourhood: Where to start the business in Guangzhou?
+# New Venture Navigator (NVN)
+### New Venture Navigator: Where to start the business in Guangzhou?
 #### Author: Ziqing Xu
-#### Date: Oct 29
+#### Date: Oct 29, 2020
 
 ### Introduction 
 
